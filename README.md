@@ -3,4 +3,8 @@ Supplementary Materials for the DSBA Program
 
 ## How to Download the Jupyter Notebook File?
 
-See here: https://www.google.com/search?q=how+to+download+ipynb+from+github&rlz=1C1CHBF_enCA727CA727&oq=how+to+dow&aqs=chrome.0.69i59j69i57j35i39j0i131i433j0i512j0i131i433i512j0i512j0i433i512j0i512l2.3693j0j7&sourceid=chrome&ie=UTF-8
+1) First click on Raw.
+2) Then, press ctrl+s to save it as . ipynb (Note that you'll have to manually type '. ...
+3) Open jupyter notebook.
+4) Go to location where you saved .ipynb file. C:\Users\wojciech.moszczynski\.ipynb_checkpoints.
+5) Open file, you will see the code.
