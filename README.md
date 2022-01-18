@@ -1,7 +1,7 @@
 # PGP-DSBA-UTA
 Supplementary Materials for the DSBA Program
 
-## How to Download the Jupyter Notebook File?
+### How to Download the Jupyter Notebook File?
 
 1) First click on Raw.
 2) Then, press ctrl+s to save it as . ipynb (Note that you'll have to manually type '. ...
